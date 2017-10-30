@@ -1,0 +1,2 @@
+Sadece base64 yok, diğerlerini de bulabildin mi?
+Bir sürü encoding yöntemi var ama biz sadece 7 tanesini biliyoruz.
